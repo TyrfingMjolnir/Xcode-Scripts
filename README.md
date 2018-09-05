@@ -1,7 +1,8 @@
 # Xcode-Scripts
 XCode build scripts
 
-## Replace the build number with the number of commits for this project
+## TO replace the build number with the number of commits for this project
 ReplaceBuildNumberByNoOfCommits.xcode.sh
 
-## Up the build number by 1 pr build
+## To up the build number by 1 pr build
+UpTheBuildNumberBy1PrBuild.xcode.sh
